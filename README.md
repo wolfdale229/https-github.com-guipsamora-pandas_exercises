@@ -8,10 +8,10 @@ There will be three different types of files:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solutions without code  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Solutions with code and comments
 
-My suggestion is that you learn a topic in a tutorial or video and then do exercises.
-Learn one more topic and do exercises. If you got the answer wrong, don't go directly to the solution with code.
+My suggestion is that you learn a topic in a tutorial, video or documentation and then do the first exercises.
+Learn one more topic and do more exercises. If you are stuck, don't go directly to the solution with code files. Check the solutions only and try to get the correct answer.
 
-Suggestions and collaborations are more than welcome. Please open an issue or make a PR. :)
+Suggestions and collaborations are more than welcome.🙂 Please open an issue or make a PR indicating the exercise and your problem/solution.
 
 # Lessons
 
@@ -33,7 +33,7 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 [Fictional Army](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
 
 ### [Grouping](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping)
-[Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Alcohol%20Consumption%20)  
+[Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption)  
 [Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Occupation)  
 [Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Regiment)
 
@@ -43,7 +43,8 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 
 ### [Merge](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge)
 [Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
-[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)
+[Fictitious Names](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
+[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
 ### [Stats](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats)
 [US_Baby_Names](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
@@ -68,3 +69,8 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 [Iris](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Iris)  
 [Wine](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Wine)  
 
+# Video Solutions
+
+Video tutorials of data scientists working through the above exercises:
+
+[Data Talks - Pandas Learning By Doing](https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv)
